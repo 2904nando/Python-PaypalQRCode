@@ -8,3 +8,5 @@ Infelizmente, para vendas físicas, a própria Paypal me incentivou a não utili
 Ideal para pagamentos em lojas online.
 
 A chave de API foi omitida por segurança.
+
+Libs utilizadas: Requests, Json, Flask

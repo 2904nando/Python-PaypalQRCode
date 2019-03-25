@@ -19,7 +19,7 @@ termos = "Devolucoes em ate 30 dias, mediante apresentacao da nota fiscal origin
 
 headers = {
         'Content-Type': 'application/json',
-        'Authorization': "Bearer A21AAHX3df5i-IjJPOMBehTujUNwjC2tEeHqkBWWg36AbW6FQUK727Djfe3bSxZYx28FU-zxLTfhP5cqVvQIReB2ljBSV55gw"
+        'Authorization': "*Auth*"
     }
 
 def createInvoice(listaProdutos, dictMerchant, notes, terms):

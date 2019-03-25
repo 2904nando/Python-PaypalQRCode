@@ -7,7 +7,7 @@ url = "https://api.sandbox.paypal.com/v1/invoicing/invoices/" + invoiceID
 
 headers = {
     'Content-Type':'application/json',
-    'Authorization':"Bearer A21AAHX3df5i-IjJPOMBehTujUNwjC2tEeHqkBWWg36AbW6FQUK727Djfe3bSxZYx28FU-zxLTfhP5cqVvQIReB2ljBSV55gw"
+    'Authorization':"*Auth*"
 }
 
 r = requests.get(url, headers=headers)
